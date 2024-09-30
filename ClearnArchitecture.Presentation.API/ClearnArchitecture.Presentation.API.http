@@ -1,0 +1,6 @@
+@ClearnArchitecture.Presentation.API_HostAddress = http://localhost:5019
+
+GET {{ClearnArchitecture.Presentation.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
